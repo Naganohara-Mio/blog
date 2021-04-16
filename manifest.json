@@ -1,0 +1,16 @@
+{
+    "name": "紫橙子",
+    "version": "1.0",
+    "manifest_version": 2,
+    "short_name": "紫橙子",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "紫橙子的个人主页",
+    "theme_color": "blue",
+    "icons": [{
+        "src": "./hero.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }]
+}
